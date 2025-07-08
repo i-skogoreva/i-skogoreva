@@ -1,15 +1,18 @@
-![Header](https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/header.gif)
+<!-- Header GIF with full width -->
+<p align="center">
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/header.gif" alt="Header" style="width: 100%; height: auto;" />
+</p>
 
-## 👩‍💻 About Me
+## About Me
 
 **Junior QA Engineer** with an analytical mindset and experience in the legal field.  
 Completed training in manual and automated testing (Python, Selenium, Postman, SQL).  
 Ready to apply acquired knowledge in practice, quickly adapt to new processes, and grow as part of a team.
 
-## 📄 My CV
+## My CV
 📌 [View my resume (PDF)](https://drive.google.com/file/d/1UMLkq59CevpyXtVJN4xG8YcIQPg5EwNJ/view?usp=sharing)
 
-## 🧰 Languages and Tools
+## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -26,10 +29,10 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 ## 🏅 Certificates
 
-## 🧠 Codewars
+## Codewars
 [![Codewars](https://www.codewars.com/users/IanaSkogoreva/badges/small)](https://www.codewars.com/users/IanaSkogoreva)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Iana's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-skogoreva&show_icons=true&theme=tokyonight)
 
 
