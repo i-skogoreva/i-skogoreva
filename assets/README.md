@@ -9,6 +9,8 @@ Languages and Tools
 
 Courses
 
+Certificates
+
 Codewars
 
 GitHub statistics
