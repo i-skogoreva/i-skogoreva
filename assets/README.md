@@ -1,7 +1,3 @@
-<!-- Header GIF with full width -->
-<p align="center">
-  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/header.gif" alt="Header" style="width: 100%; height: auto;" />
-</p>
 
 ## About Me
 
@@ -16,7 +12,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## 🎓 Courses
+## Courses
 - Интенсив SandBox Web Testing Program | Вадим Ксендзов (2025)
 - QA Automation | RedRover School (2025)
 - Jira: ведение задач на электронных досках | Артем Глотов (2025)
@@ -27,7 +23,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 - Тестирование ПО: Postman для тестирования API | Константин Борзаковский (2024)
 - HTML CSS | WEB HACKER (2024)
 
-## 🏅 Certificates
+## Certificates
 
 ## Codewars
 [![Codewars](https://www.codewars.com/users/IanaSkogoreva/badges/small)](https://www.codewars.com/users/IanaSkogoreva)
@@ -36,12 +32,12 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Iana's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-skogoreva&show_icons=true&theme=tokyonight)
 
 
-## 📝 Testing Documentation
+## Testing Documentation
 - [Checklist Example](link)
 - [Bug Reports](link)
 - [Test Cases](link)
 
-## 📬 Follow Me
+## Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i_skogoreva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iana.skogoreva@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-skogoreva)
