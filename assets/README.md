@@ -25,7 +25,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 <h2>🏅 Certificates</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive Web Testing program.png" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_thumb.png" alt="Intensive" width="140">
