@@ -81,7 +81,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ## Testing Documentation
 - [Checklist Example](link)
 - [Bug Reports](link)
-- [Test Cases](link)
+- [SQL Queries](link)
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i_skogoreva)
