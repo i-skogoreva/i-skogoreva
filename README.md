@@ -48,6 +48,10 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira_thumb.png" alt="Jira" width="140">
   </a>
 
+  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Selenium.pdf" target="_blank">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Selenium_thumb.png" alt="Selenium" width="140">
+  </a>
+
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python.pdf" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python_thumb.png" alt="Python" width="140">
   </a>
