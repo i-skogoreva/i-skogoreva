@@ -43,7 +43,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA_thumb.png" alt="QA" width="140">
   </a>
   
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL.pdf" target="_blank"">
+  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL.pdf" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/thumbs/SQL_thumb.png" alt="SQL" width="140">
   </a>
 
