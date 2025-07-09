@@ -27,37 +27,37 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive Web Testing program.png" alt="Intensive" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Intensive: SandBox Web Testing Program</p>
   </div>
 
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira.pdf" alt="Jira" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Jira: task management on electronic boards</p>
   </div>
 
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python.pdf" alt="Python" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Python</p>
   </div>
 
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA.pdf" alt="QA" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Software Testing from scratch. Theory + practice</p>
   </div>
   
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL EN.pdf" alt="SQL" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Interactive SQL simulator</p>
   </div>
 
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI.pdf" alt="Postman" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Software Testing: Postman for API Testing</p>
   </div>
 
-  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML.pdf" alt="HTML" style="width: 100%; border-radius: 4px;">
     <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">HTML & CSS</p>
   </div>
