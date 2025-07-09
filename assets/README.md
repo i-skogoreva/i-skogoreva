@@ -9,8 +9,18 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 📌 [View my resume (PDF)](https://drive.google.com/file/d/1UMLkq59CevpyXtVJN4xG8YcIQPg5EwNJ/view?usp=sharing)
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=social&logo=selenium)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=social&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=social&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=social&logo=mysql)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=social&logo=jira)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=social&logo=visualstudiocode)
+![Redmine](https://img.shields.io/badge/Redmine-B32024?style=social&logo=redmine)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-0085CA?style=social&logo=bitrix24)
 
 ## Courses
 - Intensive: SandBox Web Testing Program | Vadim Ksenzov (2025)
