@@ -10,6 +10,8 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=social&logo=pytest)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=social&logo=pycharm)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=social&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=social&logo=postman)
 ![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git)
@@ -21,6 +23,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=social&logo=visualstudiocode)
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=social&logo=redmine)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-0085CA?style=social&logo=bitrix24)
+![DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=social&logo=google-chrome)
 
 ## Courses
 - Intensive: SandBox Web Testing Program | Vadim Ksenzov (2025)
