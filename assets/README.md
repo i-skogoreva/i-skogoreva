@@ -13,17 +13,58 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Courses
-- Интенсив SandBox Web Testing Program | Вадим Ксендзов (2025)
+- Intensive: SandBox Web Testing Program | Vadim Ksenzov (2025)
 - QA Automation | RedRover School (2025)
-- Jira: ведение задач на электронных досках | Артем Глотов (2025)
-- Selenium Python | Павел Хошев (2025)
-- Поколение Python: курс для начинающих | Тимур Гуев (2024)
-- Тестирование ПО с нуля. Теория + практика | Артем Русов (2024)
-- Интерактивный тренажер по SQL | Дальневосточный центр онлайн - обучения (2024)
-- Тестирование ПО: Postman для тестирования API | Константин Борзаковский (2024)
-- HTML CSS | WEB HACKER (2024)
+- Jira: task management on electronic boards | Artem Glotov (2025)
+- Selenium Python |  Pavel Khoshev (2025)
+- Python Generation: beginner course | Timur Guev (2024)
+- Software Testing from scratch. Theory + practice | Artem Rusov (2024)
+- Interactive SQL simulator | Far Eastern center for online learning (2024)
+- Software Testing: Postman for API Testing | Konstantin Borzakovsky (2024)
+- HTML & CSS | Web Hacker (2024)
 
-## Certificates
+<h2>🏅 Certificates</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive Web Testing program.png" alt="Intensive" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Intensive: SandBox Web Testing Program</p>
+  </div>
+
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira.pdf" alt="Jira" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Jira: task management on electronic boards</p>
+  </div>
+
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python.pdf" alt="Python" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Python</p>
+  </div>
+
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA.pdf" alt="QA" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Software Testing from scratch. Theory + practice</p>
+  </div>
+  
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL EN.pdf" alt="SQL" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Interactive SQL simulator</p>
+  </div>
+
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI.pdf" alt="Postman" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">Software Testing: Postman for API Testing</p>
+  </div>
+
+  <div style="width: 250px; border: 1px solid #444; border-radius: 8px; padding: 10px; background-color: #1e1e1e;">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML.pdf" alt="HTML" style="width: 100%; border-radius: 4px;">
+    <p align="center" style="color: #ccc; font-weight: bold; margin-top: 10px;">HTML & CSS</p>
+  </div>
+  
+
+</div>
+
 
 ## Codewars
 [![Codewars](https://www.codewars.com/users/IanaSkogoreva/badges/small)](https://www.codewars.com/users/IanaSkogoreva)
