@@ -30,37 +30,30 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive Web Testing program.png" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_thumb.png" alt="Intensive" width="140">
   </a>
-  </div>
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira.pdf" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira_thumb.png" alt="Jira" width="140">
   </a>
-  </div>
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python.pdf" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python_thumb.png" alt="Python" width="140">
   </a>
-  </div>
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA.pdf" target="_blank">
    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA_thumb.png" alt="QA" width="140">
   </a>
-  </div>
   
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL.pdf" target="_blank"">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/thumbs/SQL_thumb.png" alt="SQL" width="140">
   </a>
-  </div>
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI.pdf" target="_blank">
    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI_thumb.png" alt="API" width="140">
   </a>
-  </div>
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML.pdf" target="_blank">
    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML_thumb.png" alt="HTML" width="140">
   </a>
-  </div>
   
 </div>
 
