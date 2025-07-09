@@ -1,0 +1,202 @@
+header {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #1e1e1e; 
+  color: #f0f0f0; 
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  gap: 30px;
+}
+
+.container img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #444;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.container h1 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;       
+  color: #ffffff;
+}
+
+.container h2 {
+  margin: 10px 0 0;
+  font-size: 20px;       
+  font-weight: 600;      
+  color: #ffffff;
+  text-align: center;
+}
+
+.text-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.resume-sections {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: black;
+}
+
+.left-column,
+.right-column {
+  flex: 1;
+}
+
+.left-column {
+  max-width: 45%;
+}
+
+.right-column {
+  max-width: 55%;
+}
+
+.resume-sections h3 {
+  font-size: 20px;
+  margin-top: 25px;
+  padding-bottom: 5px;
+  color: black;
+}
+
+.resume-sections h4 {
+  font-size: 16px;
+  margin: 20px 0 5px;
+  font-weight: bold;
+}
+
+.resume-sections h5 {
+  font-size: 14px;
+  font-weight: normal;
+  font-style: italic;
+  margin: 0 0 10px;
+  color: black;
+}
+
+.resume-sections ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.resume-sections li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+.resume-sections p {
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+.contacts ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contacts li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  color:black;
+}
+
+.contacts i {
+  margin-right: 10px;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.393); 
+}
+.contacts ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contacts li {
+  margin-bottom: 12px;
+}
+
+.contacts a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.contacts a:hover {
+  color: #00bcd4;
+}
+
+.copy {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+footer {
+  position: relative;
+  margin: 0;
+  padding: 40px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #1e1e1e; 
+  color: #f0f0f0; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+footer a {
+  color: #f0f0f0;
+  text-decoration: none; 
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;:
+}
+
+footer a:hover {
+  color: #00bcd4; 
+}
+
+footer img {
+  width: 24px;
+  height: 24px;
+  filter: brightness(0) invert(1); 
+}
+footer p {
+  margin: 0;
+  font-size: 12px;
+  color: whitesmoke;
+  margin: 0;
+  align-items: flex-end;
+}
+footer .copyright {
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  font-size: 12px;
+  color: #ccc;
+  margin: 0;
+  font-family:'Times New Roman', Times, serif
+}

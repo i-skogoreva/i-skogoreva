@@ -6,7 +6,7 @@ Completed training in manual and automated testing (Python, Selenium, Postman, S
 Ready to apply acquired knowledge in practice, quickly adapt to new processes, and grow as part of a team.
 
 ## My CV
-📌 [View my resume (PDF)](https://drive.google.com/file/d/1UMLkq59CevpyXtVJN4xG8YcIQPg5EwNJ/view?usp=sharing)
+📌 [View my resume (HTML)](https://drive.google.com/file/d/1UMLkq59CevpyXtVJN4xG8YcIQPg5EwNJ/view?usp=sharing)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
