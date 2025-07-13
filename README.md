@@ -88,7 +88,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 ## Testing Documentation
 - [Checklist Example](https://docs.google.com/spreadsheets/d/1-AKBOmSRo4E0C-s_332DfaeDXeJFNBcl/edit?usp=share_link&ouid=111079407921790350247&rtpof=true&sd=true)
-- [Bug Reports](https://docs.google.com/spreadsheets/d/1VaPfEjJTNNQyipq0MDyDeyBZIfWOM2Za/edit?usp=sharing&ouid=111079407921790350247&rtpof=true&sd=true)
+- [Bug Reports](https://docs.google.com/spreadsheets/d/1ZiWk9bmsLC13tCcgclOGsOpei6wEwMeD/edit?usp=share_link&ouid=111079407921790350247&rtpof=true&sd=true)
 
 
 ## Follow Me
