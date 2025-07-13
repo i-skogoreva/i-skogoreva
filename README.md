@@ -78,7 +78,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ## Codewars
 [![Codewars](https://www.codewars.com/users/IanaSkogoreva/badges/small)](https://www.codewars.com/users/IanaSkogoreva)
 
-### 💻 Мой профиль на HackerRank
+## My profile on HackerRank
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iana_skogoreva)
 
