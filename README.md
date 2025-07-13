@@ -78,6 +78,10 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ## Codewars
 [![Codewars](https://www.codewars.com/users/IanaSkogoreva/badges/small)](https://www.codewars.com/users/IanaSkogoreva)
 
+### 💻 Мой профиль на HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iana_skogoreva)
+
 ## GitHub Stats
 ![Iana's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-skogoreva&show_icons=true&theme=tokyonight)
 
@@ -85,7 +89,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ## Testing Documentation
 - [Checklist Example](https://docs.google.com/spreadsheets/d/1-AKBOmSRo4E0C-s_332DfaeDXeJFNBcl/edit?usp=share_link&ouid=111079407921790350247&rtpof=true&sd=true)
 - [Bug Reports](https://docs.google.com/spreadsheets/d/1VaPfEjJTNNQyipq0MDyDeyBZIfWOM2Za/edit?usp=sharing&ouid=111079407921790350247&rtpof=true&sd=true)
-- [SQL Queries](link)
+
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i_skogoreva)
