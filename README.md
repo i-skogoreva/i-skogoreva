@@ -6,7 +6,7 @@ Completed training in manual and automated testing (Python, Selenium, Postman, S
 Ready to apply acquired knowledge in practice, quickly adapt to new processes, and grow as part of a team.
 
 ## My CV
-📌 [View my resume (PDF)](https://drive.google.com/file/d/1UMLkq59CevpyXtVJN4xG8YcIQPg5EwNJ/view?usp=sharing)
+📌 [View my resume (PDF)](https://drive.google.com/file/d/1-Yq26CUifoXJgVUBwqXP4C_aloIF8ZlS/view?usp=sharing)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python)
@@ -24,8 +24,10 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=social&logo=redmine)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-0085CA?style=social&logo=bitrix24)
 ![DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=social&logo=google-chrome)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-008080?style=social&logo=charlesproxy&logoColor=white)
 
 ## Courses
+- Intensive: SandBox Mobile | Vadim Ksenzov (2025)
 - Intensive: SandBox Web Testing Program | Vadim Ksenzov (2025)
 - QA Automation | RedRover School (2025)
 - Jira: task management on electronic boards | Artem Glotov (2025)
