@@ -24,7 +24,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=social&logo=redmine)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-0085CA?style=social&logo=bitrix24)
 ![DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=social&logo=google-chrome)
-![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-008080?style=social&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTYgNmM1LjUyNiAwIDEwIDQuNDc0IDEwIDEwcy00LjQ3NCAxMC0xMCAxMC0xMC00LjQ3NC0xMC0xMCA0LjQ3NC0xMCAxMC0xMHoiIGZpbGw9IiMwMDgwODAiLz48dGV4dCB4PSI4IiB5PSIyMSIgc3R5bGU9ImZpbGw6d2hpdGU7Zm9udC1zaXplOjEwcHg7Zm9udC1mYW1pbHk6QXJpYWwsc2Fucy1zZXJpZjtmb250LXdlaWdodDpib2xkOyI+QzwvdGV4dD48L3N2Zz4=)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-008080?style=social&logo=https://icon-icons.com/assets/icons/icon-icons.com/icons/png/charles_proxy_190302/512px/charles_proxy_190302.png)
 
 ## Courses
 - Intensive: SandBox Mobile | Vadim Ksenzov (2025)
