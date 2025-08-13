@@ -24,7 +24,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=social&logo=redmine)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-0085CA?style=social&logo=bitrix24)
 ![DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=social&logo=google-chrome)
-![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-008080?style=social&logo=charlesproxy&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-008080?style=social&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFUlEQVR42mL8//8/AzYAiWBlYGBgkPHjwz0GBgaG+vfvD1sQMjIy/h8WZmZmP7u4uLhAqREGBgaGZt26dX9cXV09rN68eQJjAAJZQCJgAEWElMS0v7P6Q4BIMYqQ6CQTTJ7hISEuKbNm1iAwEAZpIT8P2/YvXv3Tg9wcXH9b968ub+Bhyj0MoLBcEMYAqPRD4XhAAUwAVuzbt++HMWbMmB8FBwdfp01MTGhpSeDw/xe6C3gApBMJOkDIe3u7rxMSEgLrxLIMggAAJycnbnwnDwCkgxDCQKBGMDACShBFAFJhFBgA4YAjhFMVNUcgAAAABJRU5ErkJggg==)
 
 ## Courses
 - Intensive: SandBox Mobile | Vadim Ksenzov (2025)
