@@ -42,10 +42,6 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 <div align="center" style="max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Surf_2025.pdf?raw=true" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025_thumb.png" alt="Intensive" width="140">
-  </a>
-
   <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Intensive%20Mobile%20Testing%20program.png?raw=true" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_Mobile_Testing_program_thumb.png" alt="Intensive" width="140">
   </a>
@@ -80,6 +76,10 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/HTML.pdf?raw=true" target="_blank">
    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML_thumb.png" alt="HTML" width="140">
+  </a>
+
+  <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Surf_2025.pdf?raw=true" target="_blank">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025_thumb.png" alt="Intensive" width="140">
   </a>
   
 </div>
