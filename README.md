@@ -42,7 +42,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 <div align="center" style="max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025.pdf" target="_blank">
+  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025.png" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025_thumb.png" alt="Intensive" width="140">
   </a>
   <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive Web Testing program.png" target="_blank">
