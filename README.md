@@ -40,8 +40,12 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 <h2>🏅 Certificates</h2>
 
-<div align="center" style="max-width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
+<div style="display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); 
+            gap: 20px; 
+            max-width: 1200px; 
+            margin: auto; 
+            justify-items: center;">
   <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Intensive%20Mobile%20Testing%20program.png?raw=true" target="_blank">
     <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_Mobile_Testing_program_thumb.png" alt="Intensive" width="140">
   </a>
