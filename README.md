@@ -42,43 +42,52 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 
 <div align="center" style="max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025.pdf" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025_thumb.png" alt="Intensive" width="140">
-  </a>
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive Web Testing program.png" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_thumb.png" alt="Intensive" width="140">
-  </a>
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Surf_2025_thumb.png" 
+       alt="Surf" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Surf_2025.pdf?raw=true')">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira.pdf" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira_thumb.png" alt="Jira" width="140">
-  </a>
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_thumb.png" 
+       alt="Intensive" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Intensive%20Web%20Testing%20program.png?raw=true')">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Selenium.pdf" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Selenium_thumb.png" alt="Selenium" width="140">
-  </a>
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Jira_thumb.png" 
+       alt="Jira" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Jira.pdf?raw=true')">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python.pdf" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python_thumb.png" alt="Python" width="140">
-  </a>
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Selenium_thumb.png" 
+       alt="Selenium" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Selenium.pdf?raw=true')">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA.pdf" target="_blank">
-   <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA_thumb.png" alt="QA" width="140">
-  </a>
-  
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL.pdf" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL_thumb.png" alt="SQL" width="140">
-  </a>
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Python_thumb.png" 
+       alt="Python" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Python.pdf?raw=true')">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI.pdf" target="_blank">
-   <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI_thumb.png" alt="API" width="140">
-  </a>
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/QA_thumb.png" 
+       alt="QA" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/QA.pdf?raw=true')">
 
-  <a href="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML.pdf" target="_blank">
-   <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML_thumb.png" alt="HTML" width="140">
-  </a>
-  
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/SQL_thumb.png" 
+       alt="SQL" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/SQL.pdf?raw=true')">
+
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/TestingAPI_thumb.png" 
+       alt="API" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/TestingAPI.pdf?raw=true')">
+
+  <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/HTML_thumb.png" 
+       alt="HTML" width="140" onclick="openModal('https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/HTML.pdf?raw=true')">
+
 </div>
 
+<!-- Modal -->
+<div id="modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; 
+    background:rgba(0,0,0,0.8); z-index:1000; justify-content:center; align-items:center;">
+  <span onclick="closeModal()" style="position:absolute; top:20px; right:40px; color:white; font-size:40px; cursor:pointer;">&times;</span>
+  <iframe id="modalContent" style="width:80%; height:80%; border:none; border-radius:10px; background:white;"></iframe>
+</div>
+
+<script>
+function openModal(url) {
+  document.getElementById("modalContent").src = url;
+  document.getElementById("modal").style.display = "flex";
+}
+function closeModal() {
+  document.getElementById("modal").style.display = "none";
+  document.getElementById("modalContent").src = "";
+}
+</script>
 
 ## Codewars
 [![Codewars](https://www.codewars.com/users/IanaSkogoreva/badges/small)](https://www.codewars.com/users/IanaSkogoreva)
