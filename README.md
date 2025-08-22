@@ -27,8 +27,8 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-008080?style=social&logo=https://drive.google.com/file/d/1SEIUAvZ_I6HZPL7bP74rDTt0A1GZyIfT/view?usp=sharing)
 
 ## Courses
-- Intensive: SandBox Mobile Testing Program | Vadim Ksenzov (2025)
-- Intensive: SandBox Web Testing Program | Vadim Ksenzov (2025)
+- Intensive: SandBox Mobile Testing Program | Vadim Ksendzov (2025)
+- Intensive: SandBox Web Testing Program | Vadim Ksendzov (2025)
 - QA Automation | RedRover School (2025)
 - Jira: task management on electronic boards | Artem Glotov (2025)
 - Selenium Python |  Pavel Khoshev (2025)
