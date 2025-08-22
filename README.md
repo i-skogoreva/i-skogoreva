@@ -47,7 +47,7 @@ Ready to apply acquired knowledge in practice, quickly adapt to new processes, a
             margin: auto; 
             justify-items: center;">
   <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Intensive%20Mobile%20Testing%20program.png?raw=true" target="_blank">
-    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_Mobile_Testing_program_thumb.png" alt="Intensive" width="140">
+    <img src="https://github.com/i-skogoreva/i-skogoreva/raw/main/assets/Intensive_Mobile_testing_program_thumb.png" alt="Intensive" width="140">
   </a>
 
   <a href="https://github.com/i-skogoreva/i-skogoreva/blob/main/assets/Intensive%20Web%20Testing%20program.png?raw=true" target="_blank">
